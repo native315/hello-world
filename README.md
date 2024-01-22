@@ -1,4 +1,8 @@
 # hello-world
 My first repository
 
-This is my first time on GitHub. I am a beginner in Python and Java, but I know a lot about Ruby and Lua Roblox Programming. I also know how to code HTML, JavaScript, and CSS.
+hi
+i got into programming when i was younger
+and i deleted the old readme because it was innacurate.
+i havent touched this repo in at least 7 years, until now.
+this just contains a bunch of scripts that all output "hello world"
